@@ -1,0 +1,31 @@
+Conceitos de teste
+
+- Caso de teste
+- Plano de teste
+- Defeito 
+- Falha
+- Teste estático 
+- Teste dinâmico 
+- Critério de aceitação
+
+
+Níveis de teste
+
+- Teste unitário
+- Teste de integração
+- Teste de sistema
+- Teste de aceitação
+
+Tipos de teste
+
+- Funcional
+- Regressão
+- Desempenho
+- Smoke test
+- Exploratório
+- COnfirmação 
+- Estresse
+- Carga
+- VOlume 
+- Recuperação 
+- Segurança
